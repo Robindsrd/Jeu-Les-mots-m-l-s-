@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716445236 source:c:\users\rduss\documents\algo ece\test_projet_algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+
